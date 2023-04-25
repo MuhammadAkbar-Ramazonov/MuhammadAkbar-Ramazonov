@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Muhammad Akbar</h1>
 <h3 align="center">Frontend developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
+<img align="right" alt="Coding" width="400" src="https://mail.google.com/mail/u/1?ui=2&ik=43ecd3eda9&attid=0.1&permmsgid=msg-f:1764176047009321964&th=187b9cc48b3e53ec&view=att&disp=safe&realattid=f_lgwmwsd60">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadakbar-ramazonov&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadakbar-ramazonov" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ramazonov3600" target="blank"><img src="https://img.shields.io/twitter/follow/ramazonov3600?logo=twitter&style=for-the-badge" alt="ramazonov3600" /></a> </p>
+<p align="left"> <a target="blank" href="https://twitter.com/ramazonov3600"><img src="https://img.shields.io/twitter/follow/ramazonov3600?logo=twitter&style=for-the-badge" alt="ramazonov3600" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://portfolio-muhammadakbar.netlify.app/](https://portfolio-muhammadakbar.netlify.app/)
 
