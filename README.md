@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Akbar</h1>
 <h3 align="center">Frontend developer</h3>
 
-<img align="right" alt="Coding" width="400" src="[https://mail.google.com/mail/u/1?ui=2&ik=43ecd3eda9&attid=0.1&permmsgid=msg-f:1764176047009321964&th=187b9cc48b3e53ec&view=att&disp=safe&realattid=f_lgwmwsd60](https://drive.google.com/file/d/1D3ukEKFprBM4Y9ZiyyRLubhcP75p4m9d/view?usp=share_link)">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadakbar-ramazonov&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadakbar-ramazonov" /> </p>
